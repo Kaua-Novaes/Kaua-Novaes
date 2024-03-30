@@ -1,5 +1,6 @@
 ## Oi eu sou Kauã Novaes, programador front-end e estudante!
 🧑‍💻 - Cursando Técnico em desenvolvimento de sistemas na Etec
+
 🌱 - Aprendendo React e Java
 
 
