@@ -1,7 +1,6 @@
 ## Oi eu sou Kauã Novaes, programador front-end e estudante!
 🧑‍💻 - Cursando Técnico em desenvolvimento de sistemas na Etec
-
-😀 - Pronouns - ele/dele
+🌱 - Aprendendo React e Java
 
 
 <picture>
