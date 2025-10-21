@@ -1,4 +1,4 @@
-## Oi eu sou Kauã Novaes, programador front-end e estudante!<br>
+## Oi eu sou Kauã Novaes<br>
 👨🏻‍🎓 - Técnico em desenvolvimento de sistemas na Etec<br>
 🧑‍💻 - Cursando Engenharia de Software<br>
 🧩 - Desenvolvedor Python/Pascal com foco em integração de APIs (REST, GraphQL, SOAP)<br>
