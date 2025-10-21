@@ -1,0 +1,32 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # diariamente — ajuste se quiser menos frequência
+  workflow_dispatch:      # permite rodar manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate contribution grid snake
+        uses: platane/snk@v1
+        with:
+          # usa o token embutido do GitHub Actions
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p output
+          # platane/snk salva por padrão em ./output/github-contribution-grid-snake.svg
+          git add output/github-contribution-grid-snake.svg || true
+          git commit -m "chore: update contribution snake" || echo "No changes to commit"
+          git push || echo "Push failed"
