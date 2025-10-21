@@ -1,21 +1,9 @@
-## Oi eu sou Kauã Novaes, programador front-end e estudante!
-👨🏻‍🎓 - Técnico em desenvolvimento de sistemas na Etec
-🧑‍💻 - Cursando Engenharia de Software
-🧩 - Desenvolvedor Python/Pascal com foco em integração de APIs (REST, GraphQL, SOAP)
+## Oi eu sou Kauã Novaes, programador front-end e estudante!<br>
+👨🏻‍🎓 - Técnico em desenvolvimento de sistemas na Etec<br>
+🧑‍💻 - Cursando Engenharia de Software<br>
+🧩 - Desenvolvedor Python/Pascal com foco em integração de APIs (REST, GraphQL, SOAP)<br>
 
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kaua-Novaes&show_icons=true&theme=drakula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kaua-Novaes&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KauaNovaes&show_icons=true" />
-</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
