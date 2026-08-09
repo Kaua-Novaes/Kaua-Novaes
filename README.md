@@ -4,10 +4,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:12001f,25:4c1d95,50:db2777,75:f97316,100:facc15&text=Kauã%20Novaes&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Software%20Engineering%20•%20Backend%20•%20Data%20•%20Automation&descAlignY=57&descSize=17&animation=fadeIn"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1500&color=C084FC&center=true&vCenter=true&width=650&lines=building+software+with+purpose.;backend+%2B+data+%2B+automation.;learning+how+systems+really+work." />
-</a>
-
 </div>
 
 <!-- ====================== ABOUT ====================== -->
