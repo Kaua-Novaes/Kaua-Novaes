@@ -1,17 +1,84 @@
-<!-- ========================= HERO ========================= -->
+<!-- ====================== HEADER ====================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:12001f,25:4c1d95,50:db2777,75:f97316,100:facc15&text=Kauã%20Novaes&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Software%20Engineering%20•%20Backend%20•%20Data%20•%20Automation&descAlignY=56&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:12001f,25:4c1d95,50:db2777,75:f97316,100:facc15&text=Kauã%20Novaes&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Software%20Engineering%20•%20Backend%20•%20Data%20•%20Automation&descAlignY=57&descSize=17&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=C084FC&center=true&vCenter=true&width=700&lines=building+software+with+purpose.;backend+%2B+data+%2B+automation.;learning%2C+building%2C+improving."
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1500&color=C084FC&center=true&vCenter=true&width=650&lines=building+software+with+purpose.;backend+%2B+data+%2B+automation.;learning+how+systems+really+work." />
 </a>
 
-<br/>
+</div>
+
+<!-- ====================== ABOUT ====================== -->
+
+<div align="center">
+
+
+**Analytics Intern @ Itaú Unibanco**  
+Software Engineering Student · Systems Development Technician @ ETEC
+
+<img src="https://img.shields.io/badge/Backend%20Engineering-18181B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data-18181B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-18181B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-18181B?style=flat-square&logoColor=white"/>
+
+</div>
+
+
+<!-- ====================== STACK ====================== -->
+
+## ✦ tech universe
+
+<div align="center">
+
+#### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask&theme=dark"/>
+
+<br>
+
+#### Data & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,kafka&theme=dark"/>
+
+<br>
+
+#### Tools & Web
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,linux,react,angular&theme=dark"/>
+
+</div>
+
+<br>
+
+<!-- ====================== CURRENT FOCUS ====================== -->
+
+## ✦ current focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=C084FC"/>
+
+
+`Software Architecture`
+&nbsp;·&nbsp;
+`Distributed Systems`
+&nbsp;·&nbsp;
+`Testing`
+&nbsp;·&nbsp;
+`CI/CD`
+
+<br><br>
+
+</div>
+
+<!-- ====================== CONTACT ====================== -->
+
+<div align="center">
 
 <a href="SEU_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
@@ -23,187 +90,4 @@
 
 </div>
 
-<br/>
-
-<!-- ========================= ABOUT ========================= -->
-
-## ✦ about me
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 👨‍💻 Professional
-
-**Analytics Intern**  
-@ **Itaú Unibanco**
-
-Working at the intersection of:
-
-`software` · `data` · `automation`
-
-</td>
-
-<td width="50%">
-
-### 🎓 Education
-
-**Software Engineering**
-
-Technical Degree in  
-**Systems Development — ETEC**
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-I started my journey in technology mainly working with **Python, APIs, integrations and automation**, connecting systems and turning data into useful solutions.
-
-Today, I'm going deeper into **Backend Engineering**, focusing on understanding how applications are designed, tested, deployed and evolved.
-
-> `My goal isn't just to make software work — I want to understand why it works.`
-
-<br/>
-
-<!-- ========================= CURRENT ========================= -->
-
-## ✦ current direction
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,docker,kafka&theme=dark" />
-
-<br/><br/>
-
-**Java** &nbsp;•&nbsp;
-**Spring Boot** &nbsp;•&nbsp;
-**Docker** &nbsp;•&nbsp;
-**Kafka**
-
-<br/><br/>
-
-`Software Architecture`
-&nbsp; • &nbsp;
-`Testing`
-&nbsp; • &nbsp;
-`CI/CD`
-&nbsp; • &nbsp;
-`Distributed Systems`
-
-</div>
-
-<br/>
-
-<!-- ========================= TECH ========================= -->
-
-## ✦ tech universe
-
-<div align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask&theme=dark"/>
-
-<br/><br/>
-
-`Java` · `Spring Boot` · `Python` · `FastAPI` · `Flask`
-
-<br/><br/>
-
-### Data
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark"/>
-
-<br/><br/>
-
-`PostgreSQL` · `MySQL` · `SQLite` · `DuckDB` · `Pandas` · `PySpark`
-
-<br/><br/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kafka,git,github,maven,linux&theme=dark"/>
-
-<br/><br/>
-
-`AWS` · `Docker` · `Kafka` · `Git` · `GitHub` · `Maven` · `Linux`
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,angular,js,html,css&theme=dark"/>
-
-<br/><br/>
-
-`React` · `Angular` · `JavaScript` · `HTML` · `CSS`
-
-</div>
-
-<br/>
-
-<!-- ========================= EXPERIENCE ========================= -->
-
-## ✦ things I've worked with
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 🔌
-
-**APIs**
-
-REST  
-GraphQL  
-SOAP  
-Webhooks
-
-</td>
-
-<td width="25%" align="center">
-
-### 📊
-
-**Data**
-
-ETL  
-Analytics  
-Pandas  
-PySpark
-
-</td>
-
-<td width="25%" align="center">
-
-### ☁️
-
-**AWS**
-
-S3  
-Glue  
-Athena  
-QuickSight
-
-</td>
-
-<td width="25%" align="center">
-
-### 🤖
-
-**AI**
-
-LLMs  
-AI Agents  
-Gemini  
-LangChain
-
-</td>
-
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:facc15,25:f97316,50:db2777,75:4c1d95,100:12001f"/>
