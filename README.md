@@ -25,6 +25,19 @@ Software Engineering Student · Systems Development Technician @ ETEC
 
 </div>
 
+<!-- ====================== CONTACT ====================== -->
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kau%C3%A3-novaes-705343219">
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+</a>
+
+<a href="mailto:kaua13novaes@gmail.com">
+  <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=FB7185"/>
+</a>
+
+</div>
 
 <!-- ====================== STACK ====================== -->
 
@@ -72,22 +85,8 @@ Software Engineering Student · Systems Development Technician @ ETEC
 &nbsp;·&nbsp;
 `CI/CD`
 
-<br><br>
-
 </div>
 
-<!-- ====================== CONTACT ====================== -->
 
-<div align="center">
-
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=FB7185"/>
-</a>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:facc15,25:f97316,50:db2777,75:4c1d95,100:12001f"/>
